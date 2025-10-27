@@ -1,4 +1,4 @@
-// Kĩ thuật đặt cờ
+//Kĩ thuật đặt cờ
 //Dùng để : kiểm tra sự tồn tại hoặc tính chất trong
 //Kiểm tra trong mảng có số chẵn hãy không
 var numbers = [1, 3, 5, 8];
